@@ -1,0 +1,17 @@
+{
+  "name": "javascript-starter",
+  "version": "1.0.0",
+  "description": "A lightweight kick starter for any javascript based developement environment",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiojiro/javascript-starter.git"
+  },
+  "author": "Yassine HADHADI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiojiro/javascript-starter/issues"
+  },
+  "homepage": "https://github.com/kiojiro/javascript-starter#readme"
+}
